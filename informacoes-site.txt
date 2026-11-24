@@ -1,0 +1,4 @@
+.ipc-metadata-list-summary-item , .ipc-title__text - Pega caixa com nome e ano do filme
+.ipc-title__text - Nome do filme
+.ipc-inline-list__item - Anos
+.cli-ratings-container - Avaliação
